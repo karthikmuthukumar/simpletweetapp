@@ -265,3 +265,4 @@ You can log out by clearing the access token at any time through the client obje
 RestClient client = RestApplication.getRestClient();
 client.clearAccessToken();
 ```
+# simpletweetapp
